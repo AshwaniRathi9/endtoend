@@ -1,1 +1,1 @@
-## this a end to end data science project
+## this is a end to end data science project
